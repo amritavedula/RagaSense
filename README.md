@@ -1,6 +1,7 @@
 # RagaSense: Translate EEG signals into emotional Rasas and musical prescriptions.
 A machine learning-powered emotion interpretation system that translates EEG signals into emotional states and maps them to Indian musical Rasas. Designed as a tool for emotion analysis and music-based emotional insights.
 
+
 ## 🔍 Overview
 
 RagaSense uses EEG data to:
@@ -17,7 +18,6 @@ The system includes:
 
 - Backend logic to process EEG features
 
----
 
 ## ✨ Features
 
@@ -27,7 +27,6 @@ The system includes:
 
 - Music mood mapping (Rasa)
 
----
 
 ## 🛠️ Tech Stack
 
